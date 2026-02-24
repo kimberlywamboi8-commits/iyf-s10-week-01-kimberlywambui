@@ -1,0 +1,43 @@
+# Week {01}: {creating live site URL}
+
+## Author
+- **Name:** kimberly wambui
+- **GitHub:** [@kimberlywamboi](https://github.com/kimberlywamboi8)
+- **Date:** feb/24/2026
+
+## Project Description
+ A responsive web application built with modern technologies to deliver a smooth and user-friendly experience.
+Personal portfolio website showcasing my projects, technical skills, and contact information.
+
+## Technologies Used
+-HTML5
+CSS3
+JavaScript (ES6+)
+React.js 
+
+## Features
+:General Web Application
+: Portfolio Website
+: Task Management App
+
+1. Clone this repository
+2. Open `index.html` in your browser
+   OR
+   Run `npm install` then `npm start`
+
+## Lessons Learned
+How to deploy a web application to a production environment
+Managing environment variables and configuration settings
+Fixing deployment and build errors
+Connecting frontend and backend in a live environment
+Improving website performance and optimization
+Handling real-world bugs after deployment
+Understanding domain hosting and live URL setup
+
+## Challenges Faced
+Resolving deployment errors during production build
+Fixing environment variable configuration issues
+Solving CORS issues between frontend and backend
+Debugging errors that appeared only after deployment
+
+## Screenshots (optional)
